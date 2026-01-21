@@ -6,6 +6,7 @@ import java.util.Scanner;
 /*HASSEN IBRAHIM
 ICE1 
 DATE 20JAN2026
+STU : 991826587
 */
 
 /**
