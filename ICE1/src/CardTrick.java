@@ -52,7 +52,7 @@ public class CardTrick {
                 break;
             }
         }
-        
+         // modified the code again to push to resp       
         // Report the result
         if (found) {
             System.out.println("Your card is in the magic hand!");
