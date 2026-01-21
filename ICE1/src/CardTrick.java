@@ -16,6 +16,10 @@ STU : 991826587
 public class CardTrick {
     
     public static void main(String[] args) {
+        // Hard-coded lucky card
+        Card luckyCard = new Card();
+        luckyCard.setValue(7); // Choose any value 1-13
+        luckyCard.setSuit("Hearts"); // Choose any suit from the array
         Card[] magicHand = new Card[7];
         
         for (int i = 0; i < magicHand.length; i++) {
